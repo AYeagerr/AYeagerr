@@ -2,7 +2,7 @@
 **AYeagerr/AYeagerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 <div align="center">
-   <img height="150" src="https://www.icegif.com/wp-content/uploads/2022/07/icegif-648.gif"/>
+   <img height="300" src="https://www.icegif.com/wp-content/uploads/2022/07/icegif-648.gif"/>
 </div>
 
 ###
