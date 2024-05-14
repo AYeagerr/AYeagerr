@@ -2,7 +2,7 @@
 **AYeagerr/AYeagerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 <div align="center">
-  <img height="150" src="https://gifdb.com/images/high/eren-yeager-titan-blowing-hair-o4nqyarhn8qg16br.gif"  />
+  <img height="150" src="https://gifdb.com/images/high/eren-yeager-titan-blowing-hair-o4nqyarhn8qg16br.gif"/>
 </div>
 
 ###
@@ -98,7 +98,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
@@ -108,9 +108,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AYeagerr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="220" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=AYeagerr&locale=en&mode=daily&theme=ayu-mirage&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/AYeagerr/AYeagerr/output/snake.svg" alt="Snake animation" />
 
 ###
