@@ -34,7 +34,7 @@
 
 <br clear="both">
 
-<h3 align="center">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  <strong>About Me</strong></h3>
 
 ###
 
@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<h3 align="center">🛠 Language and tools</h3>
+<h3 align="center">🛠 <strong>Language and tools</strong></h3>
 
 ###
 
@@ -98,7 +98,7 @@
 
 ###
 
-<h3 align="center">🔥   My Stats :</h3>
+<h3 align="center">🔥 <strong>My Stats</strong></h3>
 
 ###
 
