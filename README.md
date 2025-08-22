@@ -1,9 +1,6 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/753b2aec-0246-40f9-ae64-e9183a16436c" /><!-- Profile README -->
 
-<!-- Header GIF -->
-<div align="center">
-  <img src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" height="250" alt="Welcome GIF"/>
-</div>
+
 
 ---
 
