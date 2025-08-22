@@ -22,6 +22,9 @@
   <a href="https://www.instagram.com/_abdulrhmanmohamed/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="28" />
   </a>
+  <a href="https://www.youtube.com/@yeagx" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" height="28" />
+  </a>
 </div>
 
 ---
