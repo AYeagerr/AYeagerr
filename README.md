@@ -56,7 +56,7 @@
 
 ### 🎬 A little extra
 <div align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" height="180" alt="fun gif"/>
+  <img src="https://i.pinimg.com/originals/32/1a/0c/321a0c24fa57af2b24220ffb765a1cb1.gif" height="180" alt="fun gif"/>
   <p>✨ When I'm not coding, you’ll find me editing videos, shooting photos, or sketching ideas.</p>
 </div>
 
